@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jasur Farmonov, Python developer
+- 👀 I’m interested in developing great projects
+- 🌱 I’m currently learning Data Sciense
+- 💞️ I’m looking to collaborate on creating telegram bots
+- 📫 t.me/ironcoderx
